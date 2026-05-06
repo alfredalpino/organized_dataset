@@ -2,6 +2,8 @@ No-Website Leads Summary
 ========================
 Total rows scanned: 29979
 Leads with no website: 3431
+Leads after name de-duplication: 3013
+Duplicate name rows removed: 418
 
 By category:
 - Automobile: 751
