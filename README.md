@@ -3,11 +3,35 @@
 This repository contains structured extracts from source ZIP archives.
 
 ## Structure
-- `source_zips/`: original ZIP files copied from the workspace root
-- `extracted/<dataset>/`: extracted files grouped by dataset
-- `manifests/files_inventory.csv`: file-level inventory (size, rows, columns)
+- `source_zips/`: original ZIP files
+- `extracted/<Category>/<Subcategory>/`: grouped extracted files (where applicable)
+- `manifests/files_inventory.csv`: file-level inventory
 
-## Dataset Summary
-| Dataset | Files | Total Rows |
-|---|---:|---:|
-| bike_rentals | 19 | 1250 |\n| cafes | 20 | 2415 |\n| car_dealerships | 20 | 2358 |\n| clothing_stores | 20 | 2409 |\n| coffee_shops | 20 | 2406 |\n| distilleries | 5 | 121 |\n| educational_services | 20 | 1809 |\n| financial_planners | 20 | 2400 |\n| furniture_stores | 19 | 2284 |\n| hotels | 20 | 2333 |\n| property_management | 20 | 2406 |\n| real_estate_agents | 20 | 2402 |\n| restaurants | 20 | 2409 |\n| spas | 20 | 2351 |\n| theme_parks | 10 | 626 |\n
+## Category Layout
+- Automobile
+  - Bike_Rentals
+  - Car_Dealerships
+- Hospitality
+  - Cafes
+  - CoffeeShops
+  - Distelliers
+  - Hotels
+  - Restaureants
+  - Spas
+  - Theme parks
+- Real Estates
+  - Real estate agents
+  - Property management
+- Furniture Stores
+- Financial planners
+- Educational Services
+- Clothing Stores
+
+## Data Summary
+- **Automobile**: 39 files, 3608 rows
+- **Clothing Stores**: 20 files, 2409 rows
+- **Educational Services**: 20 files, 1809 rows
+- **Financial planners**: 20 files, 2400 rows
+- **Furniture Stores**: 19 files, 2284 rows
+- **Hospitality**: 115 files, 12661 rows
+- **Real Estates**: 40 files, 4808 rows

@@ -1,274 +1,274 @@
-dataset,file_path,size_bytes,row_count,column_count,header_columns
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Austin_Texas.csv,31666,90,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Charlotte_North_Carolina.csv,14944,39,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Chicago_Illinois.csv,33305,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Columbus_Ohio.csv,0,,,
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Dallas_Texas.csv,15515,55,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Detroit_Michigan.csv,13160,36,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_El_Paso_Texas.csv,6745,18,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Fort_Worth_Texas.csv,14980,39,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Houston_Texas.csv,20692,70,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Indianapolis_Indiana.csv,16119,43,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Jacksonville_Florida.csv,20581,54,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Los_Angeles_California.csv,45815,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Memphis_Tennessee.csv,7484,20,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_New_York_New_York.csv,44510,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Philadelphia_Pennsylvania.csv,27418,77,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_Phoenix_Arizona.csv,31419,84,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_San_Antonio_Texas.csv,15027,39,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_San_Diego_California.csv,43146,112,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-bike_rentals,extracted/bike_rentals/Bike rentals/Bike_rentals_in_San_Jose_California.csv,37299,109,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Austin_Texas.csv,42088,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Charlotte_North_Carolina.csv,45076,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Chicago_Illinois.csv,43826,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Columbus_Ohio.csv,43189,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Dallas_Texas.csv,42485,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Detroit_Michigan.csv,42424,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_El_Paso_Texas.csv,41934,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Fort_Worth_Texas.csv,42908,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Houston_Texas.csv,42768,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Indianapolis_Indiana.csv,43720,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Jacksonville_Florida.csv,44532,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Los_Angeles_California.csv,44188,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Memphis_Tennessee.csv,42887,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_New_York_New_York.csv,41925,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Philadelphia_Pennsylvania.csv,43918,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_Phoenix_Arizona.csv,43296,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_San_Antonio_Texas.csv,43542,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_San_Diego_California.csv,44162,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_San_Francisco_California.csv,43057,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-cafes,extracted/cafes/Cafes/Cafes_in_San_Jose_California.csv,43508,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Austin_Texas.csv,44053,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Charlotte_North_Carolina.csv,46916,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Chicago_Illinois.csv,44336,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Columbus_Ohio.csv,44345,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Dallas_Texas.csv,44443,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Detroit_Michigan.csv,44858,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_El_Paso_Texas.csv,43484,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Fort_Worth_Texas.csv,45209,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Houston_Texas.csv,43963,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Indianapolis_Indiana.csv,45394,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Jacksonville_Florida.csv,46078,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Los_Angeles_California.csv,45348,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Memphis_Tennessee.csv,44268,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_New_York_New_York.csv,43913,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Philadelphia_Pennsylvania.csv,45591,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_Phoenix_Arizona.csv,44823,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_San_Antonio_Texas.csv,45517,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_San_Diego_California.csv,45037,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_San_Francisco_California.csv,25628,68,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-car_dealerships,extracted/car_dealerships/Car Dealerships/Car_Dealerships_in_San_Jose_California.csv,44860,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Austin_Texas.csv,42619,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Charlotte_North_Carolina.csv,44809,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Chicago_Illinois.csv,42613,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Columbus_Ohio.csv,42740,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Dallas_Texas.csv,43255,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Detroit_Michigan.csv,42878,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_El_Paso_Texas.csv,42704,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Fort_Worth_Texas.csv,43810,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Houston_Texas.csv,44016,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Indianapolis_Indiana.csv,43644,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Jacksonville_Florida.csv,44612,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Los_Angeles_California.csv,44694,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Memphis_Tennessee.csv,43260,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_New_York_New_York.csv,43486,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Philadelphia_Pennsylvania.csv,44727,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_Phoenix_Arizona.csv,43788,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_San_Antonio_Texas.csv,43990,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_San_Diego_California.csv,44078,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_San_Francisco_California.csv,44828,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-clothing_stores,extracted/clothing_stores/Clothing stores/Clothing_stores_in_San_Jose_California.csv,43507,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Austin_Texas.csv,43349,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Charlotte_North_Carolina.csv,45034,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Chicago_Illinois.csv,44162,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Columbus_Ohio.csv,43501,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Dallas_Texas.csv,43534,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Detroit_Michigan.csv,43323,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_El_Paso_Texas.csv,42470,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Fort_Worth_Texas.csv,43371,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Houston_Texas.csv,42935,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Indianapolis_Indiana.csv,44387,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Jacksonville_Florida.csv,44686,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Los_Angeles_California.csv,44551,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Memphis_Tennessee.csv,43075,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_New_York_New_York.csv,43970,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Philadelphia_Pennsylvania.csv,44939,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_Phoenix_Arizona.csv,43910,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_San_Antonio_Texas.csv,45388,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_San_Diego_California.csv,44633,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_San_Francisco_California.csv,44544,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-coffee_shops,extracted/coffee_shops/Coffee shops/Coffee_shops_in_San_Jose_California.csv,43445,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-distilleries,extracted/distilleries/Distilleries/Distilleries_in_Chicago_Illinois.csv,5235,14,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-distilleries,extracted/distilleries/Distilleries/Distilleries_in_Detroit_Michigan.csv,10531,28,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-distilleries,extracted/distilleries/Distilleries/Distilleries_in_Indianapolis_Indiana.csv,13479,35,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-distilleries,extracted/distilleries/Distilleries/Distilleries_in_San_Antonio_Texas.csv,3857,10,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-distilleries,extracted/distilleries/Distilleries/Distilleries_in_San_Francisco_California.csv,12624,34,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Austin_Texas.csv,13673,36,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Charlotte_North_Carolina.csv,46646,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Chicago_Illinois.csv,42510,110,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Columbus_Ohio.csv,32525,85,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Dallas_Texas.csv,41076,110,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Detroit_Michigan.csv,28400,74,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_El_Paso_Texas.csv,25389,66,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Fort_Worth_Texas.csv,30735,80,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Houston_Texas.csv,27874,74,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Indianapolis_Indiana.csv,22961,59,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Jacksonville_Florida.csv,24524,61,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Los_Angeles_California.csv,46210,118,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Memphis_Tennessee.csv,35313,93,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_New_York_New_York.csv,46769,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Philadelphia_Pennsylvania.csv,46767,117,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_Phoenix_Arizona.csv,2391,6,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_San_Antonio_Texas.csv,46248,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_San_Diego_California.csv,47073,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_San_Francisco_California.csv,48743,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-educational_services,extracted/educational_services/Educational Services/Educational_Services_in_San_Jose_California.csv,46683,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Austin_Texas.csv,51029,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Charlotte_North_Carolina.csv,50169,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Chicago_Illinois.csv,50007,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Columbus_Ohio.csv,49352,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Dallas_Texas.csv,48730,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Detroit_Michigan.csv,47925,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_El_Paso_Texas.csv,48978,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Fort_Worth_Texas.csv,52369,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Houston_Texas.csv,49126,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Indianapolis_Indiana.csv,49895,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Jacksonville_Florida.csv,51031,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Los_Angeles_California.csv,50919,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Memphis_Tennessee.csv,49322,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_New_York_New_York.csv,48552,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Philadelphia_Pennsylvania.csv,52376,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_Phoenix_Arizona.csv,50030,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_San_Antonio_Texas.csv,51770,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_San_Diego_California.csv,49441,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_San_Francisco_California.csv,51235,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-financial_planners,extracted/financial_planners/Financial Planners/Financial_Planners_in_San_Jose_California.csv,53343,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Austin_Texas.csv,44234,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Charlotte_North_Carolina.csv,45706,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Chicago_Illinois.csv,44407,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Columbus_Ohio.csv,44940,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Dallas_Texas.csv,44931,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_El_Paso_Texas.csv,42619,117,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Fort_Worth_Texas.csv,44841,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Houston_Texas.csv,44273,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Indianapolis_Indiana.csv,44650,117,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Jacksonville_Florida.csv,46358,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Los_Angeles_California.csv,45353,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Memphis_Tennessee.csv,45207,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_New_York_New_York.csv,44691,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Philadelphia_Pennsylvania.csv,46254,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_Phoenix_Arizona.csv,44996,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_San_Antonio_Texas.csv,45491,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_San_Diego_California.csv,46671,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_San_Francisco_California.csv,45732,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-furniture_stores,extracted/furniture_stores/Furniture stores/Furniture_stores_in_San_Jose_California.csv,45118,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Austin_Texas.csv,48631,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Charlotte_North_Carolina.csv,50877,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Chicago_Illinois.csv,48126,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Columbus_Ohio.csv,49008,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Dallas_Texas.csv,47263,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Detroit_Michigan.csv,46347,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_El_Paso_Texas.csv,47016,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Fort_Worth_Texas.csv,50108,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Houston_Texas.csv,7990,20,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Indianapolis_Indiana.csv,50974,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Jacksonville_Florida.csv,51958,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Los_Angeles_California.csv,47636,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Memphis_Tennessee.csv,49925,123,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_New_York_New_York.csv,46035,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Philadelphia_Pennsylvania.csv,50328,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_Phoenix_Arizona.csv,49235,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_San_Antonio_Texas.csv,51210,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_San_Diego_California.csv,48831,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_San_Francisco_California.csv,48082,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-hotels,extracted/hotels/Hotels/Hotels_in_San_Jose_California.csv,49403,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Austin_Texas.csv,45632,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Charlotte_North_Carolina.csv,47588,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Chicago_Illinois.csv,47069,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Columbus_Ohio.csv,45127,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Dallas_Texas.csv,45175,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Detroit_Michigan.csv,45589,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_El_Paso_Texas.csv,45700,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Fort_Worth_Texas.csv,46784,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Houston_Texas.csv,45450,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Indianapolis_Indiana.csv,46751,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Jacksonville_Florida.csv,49006,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Los_Angeles_California.csv,48104,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Memphis_Tennessee.csv,46198,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_New_York_New_York.csv,45885,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Philadelphia_Pennsylvania.csv,48103,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_Phoenix_Arizona.csv,46393,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_San_Antonio_Texas.csv,46225,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_San_Diego_California.csv,49411,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_San_Francisco_California.csv,46926,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-property_management,extracted/property_management/Property management/Property_management_in_San_Jose_California.csv,46782,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Austin_Texas.csv,47249,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Charlotte_North_Carolina.csv,48838,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Chicago_Illinois.csv,48299,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Columbus_Ohio.csv,47534,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Dallas_Texas.csv,47894,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Detroit_Michigan.csv,47685,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_El_Paso_Texas.csv,47341,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Fort_Worth_Texas.csv,49063,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Houston_Texas.csv,46268,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Indianapolis_Indiana.csv,48982,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Jacksonville_Florida.csv,49241,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Los_Angeles_California.csv,49880,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Memphis_Tennessee.csv,47925,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_New_York_New_York.csv,47926,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Philadelphia_Pennsylvania.csv,51466,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_Phoenix_Arizona.csv,46855,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_San_Antonio_Texas.csv,48839,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_San_Diego_California.csv,50208,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_San_Francisco_California.csv,50505,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-real_estate_agents,extracted/real_estate_agents/Real estate agents/Real_estate_agents_in_San_Jose_California.csv,47716,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Austin_Texas.csv,42611,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Charlotte_North_Carolina.csv,44650,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Chicago_Illinois.csv,43889,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Columbus_Ohio.csv,43296,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Dallas_Texas.csv,43268,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Detroit_Michigan.csv,43074,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_El_Paso_Texas.csv,43274,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Fort_Worth_Texas.csv,43967,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Houston_Texas.csv,42278,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Indianapolis_Indiana.csv,44809,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Jacksonville_Florida.csv,45401,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Los_Angeles_California.csv,44791,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Memphis_Tennessee.csv,43838,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_New_York_New_York.csv,43135,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Philadelphia_Pennsylvania.csv,44362,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_Phoenix_Arizona.csv,44043,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_San_Antonio_Texas.csv,45129,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_San_Diego_California.csv,44410,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_San_Francisco_California.csv,43514,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-restaurants,extracted/restaurants/Restaurants/Restaurants_in_San_Jose_California.csv,44136,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Austin_Texas.csv,44067,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Charlotte_North_Carolina.csv,45967,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Chicago_Illinois.csv,44237,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Columbus_Ohio.csv,43710,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Dallas_Texas.csv,44140,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Detroit_Michigan.csv,30463,84,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_El_Paso_Texas.csv,41859,115,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Fort_Worth_Texas.csv,33569,90,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Houston_Texas.csv,44544,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Indianapolis_Indiana.csv,44023,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Jacksonville_Florida.csv,45127,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Los_Angeles_California.csv,44988,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Memphis_Tennessee.csv,44068,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_New_York_New_York.csv,44000,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Philadelphia_Pennsylvania.csv,46067,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_Phoenix_Arizona.csv,45328,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_San_Antonio_Texas.csv,44443,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_San_Diego_California.csv,43926,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_San_Francisco_California.csv,44634,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-spas,extracted/spas/Spas/Spas_in_San_Jose_California.csv,44858,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_Chicago_Illinois.csv,22155,60,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_Dallas_Texas.csv,21930,59,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_Houston_Texas.csv,25895,72,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_Los_Angeles_California.csv,36477,96,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_New_York_New_York.csv,11906,32,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_Philadelphia_Pennsylvania.csv,25596,68,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_Phoenix_Arizona.csv,12033,32,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_San_Antonio_Texas.csv,34713,93,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_San_Diego_California.csv,20072,56,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
-theme_parks,extracted/theme_parks/Theme parks/Theme_parks_in_San_Jose_California.csv,21014,58,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+category,dataset,file_path,size_bytes,row_count,column_count,header_columns
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Austin_Texas.csv,31666,90,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Charlotte_North_Carolina.csv,14944,39,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Chicago_Illinois.csv,33305,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Columbus_Ohio.csv,0,,,
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Dallas_Texas.csv,15515,55,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Detroit_Michigan.csv,13160,36,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_El_Paso_Texas.csv,6745,18,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Fort_Worth_Texas.csv,14980,39,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Houston_Texas.csv,20692,70,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Indianapolis_Indiana.csv,16119,43,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Jacksonville_Florida.csv,20581,54,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Los_Angeles_California.csv,45815,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Memphis_Tennessee.csv,7484,20,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_New_York_New_York.csv,44510,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Philadelphia_Pennsylvania.csv,27418,77,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_Phoenix_Arizona.csv,31419,84,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_San_Antonio_Texas.csv,15027,39,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_San_Diego_California.csv,43146,112,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Bike_Rentals,extracted/Automobile/Bike_Rentals/Bike_rentals_in_San_Jose_California.csv,37299,109,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Austin_Texas.csv,44053,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Charlotte_North_Carolina.csv,46916,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Chicago_Illinois.csv,44336,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Columbus_Ohio.csv,44345,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Dallas_Texas.csv,44443,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Detroit_Michigan.csv,44858,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_El_Paso_Texas.csv,43484,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Fort_Worth_Texas.csv,45209,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Houston_Texas.csv,43963,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Indianapolis_Indiana.csv,45394,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Jacksonville_Florida.csv,46078,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Los_Angeles_California.csv,45348,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Memphis_Tennessee.csv,44268,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_New_York_New_York.csv,43913,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Philadelphia_Pennsylvania.csv,45591,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_Phoenix_Arizona.csv,44823,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_San_Antonio_Texas.csv,45517,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_San_Diego_California.csv,45037,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_San_Francisco_California.csv,25628,68,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Automobile,Car_Dealerships,extracted/Automobile/Car_Dealerships/Car_Dealerships_in_San_Jose_California.csv,44860,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Austin_Texas.csv,extracted/Clothing Stores/Clothing_stores_in_Austin_Texas.csv,42619,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Charlotte_North_Carolina.csv,extracted/Clothing Stores/Clothing_stores_in_Charlotte_North_Carolina.csv,44809,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Chicago_Illinois.csv,extracted/Clothing Stores/Clothing_stores_in_Chicago_Illinois.csv,42613,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Columbus_Ohio.csv,extracted/Clothing Stores/Clothing_stores_in_Columbus_Ohio.csv,42740,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Dallas_Texas.csv,extracted/Clothing Stores/Clothing_stores_in_Dallas_Texas.csv,43255,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Detroit_Michigan.csv,extracted/Clothing Stores/Clothing_stores_in_Detroit_Michigan.csv,42878,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_El_Paso_Texas.csv,extracted/Clothing Stores/Clothing_stores_in_El_Paso_Texas.csv,42704,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Fort_Worth_Texas.csv,extracted/Clothing Stores/Clothing_stores_in_Fort_Worth_Texas.csv,43810,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Houston_Texas.csv,extracted/Clothing Stores/Clothing_stores_in_Houston_Texas.csv,44016,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Indianapolis_Indiana.csv,extracted/Clothing Stores/Clothing_stores_in_Indianapolis_Indiana.csv,43644,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Jacksonville_Florida.csv,extracted/Clothing Stores/Clothing_stores_in_Jacksonville_Florida.csv,44612,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Los_Angeles_California.csv,extracted/Clothing Stores/Clothing_stores_in_Los_Angeles_California.csv,44694,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Memphis_Tennessee.csv,extracted/Clothing Stores/Clothing_stores_in_Memphis_Tennessee.csv,43260,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_New_York_New_York.csv,extracted/Clothing Stores/Clothing_stores_in_New_York_New_York.csv,43486,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Philadelphia_Pennsylvania.csv,extracted/Clothing Stores/Clothing_stores_in_Philadelphia_Pennsylvania.csv,44727,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_Phoenix_Arizona.csv,extracted/Clothing Stores/Clothing_stores_in_Phoenix_Arizona.csv,43788,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_San_Antonio_Texas.csv,extracted/Clothing Stores/Clothing_stores_in_San_Antonio_Texas.csv,43990,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_San_Diego_California.csv,extracted/Clothing Stores/Clothing_stores_in_San_Diego_California.csv,44078,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_San_Francisco_California.csv,extracted/Clothing Stores/Clothing_stores_in_San_Francisco_California.csv,44828,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Clothing Stores,Clothing_stores_in_San_Jose_California.csv,extracted/Clothing Stores/Clothing_stores_in_San_Jose_California.csv,43507,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Austin_Texas.csv,extracted/Educational Services/Educational_Services_in_Austin_Texas.csv,13673,36,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Charlotte_North_Carolina.csv,extracted/Educational Services/Educational_Services_in_Charlotte_North_Carolina.csv,46646,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Chicago_Illinois.csv,extracted/Educational Services/Educational_Services_in_Chicago_Illinois.csv,42510,110,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Columbus_Ohio.csv,extracted/Educational Services/Educational_Services_in_Columbus_Ohio.csv,32525,85,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Dallas_Texas.csv,extracted/Educational Services/Educational_Services_in_Dallas_Texas.csv,41076,110,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Detroit_Michigan.csv,extracted/Educational Services/Educational_Services_in_Detroit_Michigan.csv,28400,74,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_El_Paso_Texas.csv,extracted/Educational Services/Educational_Services_in_El_Paso_Texas.csv,25389,66,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Fort_Worth_Texas.csv,extracted/Educational Services/Educational_Services_in_Fort_Worth_Texas.csv,30735,80,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Houston_Texas.csv,extracted/Educational Services/Educational_Services_in_Houston_Texas.csv,27874,74,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Indianapolis_Indiana.csv,extracted/Educational Services/Educational_Services_in_Indianapolis_Indiana.csv,22961,59,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Jacksonville_Florida.csv,extracted/Educational Services/Educational_Services_in_Jacksonville_Florida.csv,24524,61,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Los_Angeles_California.csv,extracted/Educational Services/Educational_Services_in_Los_Angeles_California.csv,46210,118,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Memphis_Tennessee.csv,extracted/Educational Services/Educational_Services_in_Memphis_Tennessee.csv,35313,93,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_New_York_New_York.csv,extracted/Educational Services/Educational_Services_in_New_York_New_York.csv,46769,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Philadelphia_Pennsylvania.csv,extracted/Educational Services/Educational_Services_in_Philadelphia_Pennsylvania.csv,46767,117,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_Phoenix_Arizona.csv,extracted/Educational Services/Educational_Services_in_Phoenix_Arizona.csv,2391,6,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_San_Antonio_Texas.csv,extracted/Educational Services/Educational_Services_in_San_Antonio_Texas.csv,46248,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_San_Diego_California.csv,extracted/Educational Services/Educational_Services_in_San_Diego_California.csv,47073,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_San_Francisco_California.csv,extracted/Educational Services/Educational_Services_in_San_Francisco_California.csv,48743,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Educational Services,Educational_Services_in_San_Jose_California.csv,extracted/Educational Services/Educational_Services_in_San_Jose_California.csv,46683,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Austin_Texas.csv,extracted/Financial planners/Financial_Planners_in_Austin_Texas.csv,51029,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Charlotte_North_Carolina.csv,extracted/Financial planners/Financial_Planners_in_Charlotte_North_Carolina.csv,50169,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Chicago_Illinois.csv,extracted/Financial planners/Financial_Planners_in_Chicago_Illinois.csv,50007,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Columbus_Ohio.csv,extracted/Financial planners/Financial_Planners_in_Columbus_Ohio.csv,49352,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Dallas_Texas.csv,extracted/Financial planners/Financial_Planners_in_Dallas_Texas.csv,48730,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Detroit_Michigan.csv,extracted/Financial planners/Financial_Planners_in_Detroit_Michigan.csv,47925,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_El_Paso_Texas.csv,extracted/Financial planners/Financial_Planners_in_El_Paso_Texas.csv,48978,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Fort_Worth_Texas.csv,extracted/Financial planners/Financial_Planners_in_Fort_Worth_Texas.csv,52369,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Houston_Texas.csv,extracted/Financial planners/Financial_Planners_in_Houston_Texas.csv,49126,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Indianapolis_Indiana.csv,extracted/Financial planners/Financial_Planners_in_Indianapolis_Indiana.csv,49895,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Jacksonville_Florida.csv,extracted/Financial planners/Financial_Planners_in_Jacksonville_Florida.csv,51031,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Los_Angeles_California.csv,extracted/Financial planners/Financial_Planners_in_Los_Angeles_California.csv,50919,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Memphis_Tennessee.csv,extracted/Financial planners/Financial_Planners_in_Memphis_Tennessee.csv,49322,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_New_York_New_York.csv,extracted/Financial planners/Financial_Planners_in_New_York_New_York.csv,48552,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Philadelphia_Pennsylvania.csv,extracted/Financial planners/Financial_Planners_in_Philadelphia_Pennsylvania.csv,52376,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_Phoenix_Arizona.csv,extracted/Financial planners/Financial_Planners_in_Phoenix_Arizona.csv,50030,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_San_Antonio_Texas.csv,extracted/Financial planners/Financial_Planners_in_San_Antonio_Texas.csv,51770,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_San_Diego_California.csv,extracted/Financial planners/Financial_Planners_in_San_Diego_California.csv,49441,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_San_Francisco_California.csv,extracted/Financial planners/Financial_Planners_in_San_Francisco_California.csv,51235,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Financial planners,Financial_Planners_in_San_Jose_California.csv,extracted/Financial planners/Financial_Planners_in_San_Jose_California.csv,53343,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Austin_Texas.csv,extracted/Furniture Stores/Furniture_stores_in_Austin_Texas.csv,44234,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Charlotte_North_Carolina.csv,extracted/Furniture Stores/Furniture_stores_in_Charlotte_North_Carolina.csv,45706,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Chicago_Illinois.csv,extracted/Furniture Stores/Furniture_stores_in_Chicago_Illinois.csv,44407,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Columbus_Ohio.csv,extracted/Furniture Stores/Furniture_stores_in_Columbus_Ohio.csv,44940,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Dallas_Texas.csv,extracted/Furniture Stores/Furniture_stores_in_Dallas_Texas.csv,44931,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_El_Paso_Texas.csv,extracted/Furniture Stores/Furniture_stores_in_El_Paso_Texas.csv,42619,117,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Fort_Worth_Texas.csv,extracted/Furniture Stores/Furniture_stores_in_Fort_Worth_Texas.csv,44841,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Houston_Texas.csv,extracted/Furniture Stores/Furniture_stores_in_Houston_Texas.csv,44273,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Indianapolis_Indiana.csv,extracted/Furniture Stores/Furniture_stores_in_Indianapolis_Indiana.csv,44650,117,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Jacksonville_Florida.csv,extracted/Furniture Stores/Furniture_stores_in_Jacksonville_Florida.csv,46358,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Los_Angeles_California.csv,extracted/Furniture Stores/Furniture_stores_in_Los_Angeles_California.csv,45353,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Memphis_Tennessee.csv,extracted/Furniture Stores/Furniture_stores_in_Memphis_Tennessee.csv,45207,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_New_York_New_York.csv,extracted/Furniture Stores/Furniture_stores_in_New_York_New_York.csv,44691,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Philadelphia_Pennsylvania.csv,extracted/Furniture Stores/Furniture_stores_in_Philadelphia_Pennsylvania.csv,46254,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_Phoenix_Arizona.csv,extracted/Furniture Stores/Furniture_stores_in_Phoenix_Arizona.csv,44996,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_San_Antonio_Texas.csv,extracted/Furniture Stores/Furniture_stores_in_San_Antonio_Texas.csv,45491,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_San_Diego_California.csv,extracted/Furniture Stores/Furniture_stores_in_San_Diego_California.csv,46671,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_San_Francisco_California.csv,extracted/Furniture Stores/Furniture_stores_in_San_Francisco_California.csv,45732,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Furniture Stores,Furniture_stores_in_San_Jose_California.csv,extracted/Furniture Stores/Furniture_stores_in_San_Jose_California.csv,45118,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Austin_Texas.csv,42088,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Charlotte_North_Carolina.csv,45076,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Chicago_Illinois.csv,43826,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Columbus_Ohio.csv,43189,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Dallas_Texas.csv,42485,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Detroit_Michigan.csv,42424,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_El_Paso_Texas.csv,41934,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Fort_Worth_Texas.csv,42908,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Houston_Texas.csv,42768,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Indianapolis_Indiana.csv,43720,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Jacksonville_Florida.csv,44532,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Los_Angeles_California.csv,44188,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Memphis_Tennessee.csv,42887,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_New_York_New_York.csv,41925,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Philadelphia_Pennsylvania.csv,43918,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_Phoenix_Arizona.csv,43296,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_San_Antonio_Texas.csv,43542,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_San_Diego_California.csv,44162,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_San_Francisco_California.csv,43057,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Cafes,extracted/Hospitality/Cafes/Cafes_in_San_Jose_California.csv,43508,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Austin_Texas.csv,43349,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Charlotte_North_Carolina.csv,45034,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Chicago_Illinois.csv,44162,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Columbus_Ohio.csv,43501,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Dallas_Texas.csv,43534,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Detroit_Michigan.csv,43323,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_El_Paso_Texas.csv,42470,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Fort_Worth_Texas.csv,43371,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Houston_Texas.csv,42935,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Indianapolis_Indiana.csv,44387,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Jacksonville_Florida.csv,44686,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Los_Angeles_California.csv,44551,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Memphis_Tennessee.csv,43075,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_New_York_New_York.csv,43970,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Philadelphia_Pennsylvania.csv,44939,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_Phoenix_Arizona.csv,43910,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_San_Antonio_Texas.csv,45388,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_San_Diego_California.csv,44633,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_San_Francisco_California.csv,44544,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,CoffeeShops,extracted/Hospitality/CoffeeShops/Coffee_shops_in_San_Jose_California.csv,43445,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Distelliers,extracted/Hospitality/Distelliers/Distilleries_in_Chicago_Illinois.csv,5235,14,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Distelliers,extracted/Hospitality/Distelliers/Distilleries_in_Detroit_Michigan.csv,10531,28,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Distelliers,extracted/Hospitality/Distelliers/Distilleries_in_Indianapolis_Indiana.csv,13479,35,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Distelliers,extracted/Hospitality/Distelliers/Distilleries_in_San_Antonio_Texas.csv,3857,10,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Distelliers,extracted/Hospitality/Distelliers/Distilleries_in_San_Francisco_California.csv,12624,34,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Austin_Texas.csv,48631,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Charlotte_North_Carolina.csv,50877,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Chicago_Illinois.csv,48126,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Columbus_Ohio.csv,49008,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Dallas_Texas.csv,47263,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Detroit_Michigan.csv,46347,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_El_Paso_Texas.csv,47016,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Fort_Worth_Texas.csv,50108,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Houston_Texas.csv,7990,20,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Indianapolis_Indiana.csv,50974,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Jacksonville_Florida.csv,51958,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Los_Angeles_California.csv,47636,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Memphis_Tennessee.csv,49925,123,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_New_York_New_York.csv,46035,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Philadelphia_Pennsylvania.csv,50328,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_Phoenix_Arizona.csv,49235,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_San_Antonio_Texas.csv,51210,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_San_Diego_California.csv,48831,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_San_Francisco_California.csv,48082,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Hotels,extracted/Hospitality/Hotels/Hotels_in_San_Jose_California.csv,49403,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Austin_Texas.csv,42611,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Charlotte_North_Carolina.csv,44650,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Chicago_Illinois.csv,43889,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Columbus_Ohio.csv,43296,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Dallas_Texas.csv,43268,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Detroit_Michigan.csv,43074,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_El_Paso_Texas.csv,43274,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Fort_Worth_Texas.csv,43967,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Houston_Texas.csv,42278,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Indianapolis_Indiana.csv,44809,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Jacksonville_Florida.csv,45401,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Los_Angeles_California.csv,44791,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Memphis_Tennessee.csv,43838,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_New_York_New_York.csv,43135,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Philadelphia_Pennsylvania.csv,44362,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_Phoenix_Arizona.csv,44043,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_San_Antonio_Texas.csv,45129,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_San_Diego_California.csv,44410,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_San_Francisco_California.csv,43514,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Restaureants,extracted/Hospitality/Restaureants/Restaurants_in_San_Jose_California.csv,44136,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Austin_Texas.csv,44067,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Charlotte_North_Carolina.csv,45967,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Chicago_Illinois.csv,44237,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Columbus_Ohio.csv,43710,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Dallas_Texas.csv,44140,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Detroit_Michigan.csv,30463,84,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_El_Paso_Texas.csv,41859,115,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Fort_Worth_Texas.csv,33569,90,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Houston_Texas.csv,44544,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Indianapolis_Indiana.csv,44023,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Jacksonville_Florida.csv,45127,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Los_Angeles_California.csv,44988,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Memphis_Tennessee.csv,44068,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_New_York_New_York.csv,44000,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Philadelphia_Pennsylvania.csv,46067,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_Phoenix_Arizona.csv,45328,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_San_Antonio_Texas.csv,44443,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_San_Diego_California.csv,43926,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_San_Francisco_California.csv,44634,121,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Spas,extracted/Hospitality/Spas/Spas_in_San_Jose_California.csv,44858,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_Chicago_Illinois.csv,22155,60,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_Dallas_Texas.csv,21930,59,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_Houston_Texas.csv,25895,72,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_Los_Angeles_California.csv,36477,96,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_New_York_New_York.csv,11906,32,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_Philadelphia_Pennsylvania.csv,25596,68,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_Phoenix_Arizona.csv,12033,32,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_San_Antonio_Texas.csv,34713,93,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_San_Diego_California.csv,20072,56,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Hospitality,Theme parks,extracted/Hospitality/Theme parks/Theme_parks_in_San_Jose_California.csv,21014,58,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Austin_Texas.csv,45632,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Charlotte_North_Carolina.csv,47588,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Chicago_Illinois.csv,47069,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Columbus_Ohio.csv,45127,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Dallas_Texas.csv,45175,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Detroit_Michigan.csv,45589,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_El_Paso_Texas.csv,45700,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Fort_Worth_Texas.csv,46784,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Houston_Texas.csv,45450,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Indianapolis_Indiana.csv,46751,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Jacksonville_Florida.csv,49006,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Los_Angeles_California.csv,48104,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Memphis_Tennessee.csv,46198,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_New_York_New_York.csv,45885,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Philadelphia_Pennsylvania.csv,48103,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_Phoenix_Arizona.csv,46393,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_San_Antonio_Texas.csv,46225,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_San_Diego_California.csv,49411,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_San_Francisco_California.csv,46926,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Property management,extracted/Real Estates/Property management/Property_management_in_San_Jose_California.csv,46782,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Austin_Texas.csv,47249,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Charlotte_North_Carolina.csv,48838,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Chicago_Illinois.csv,48299,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Columbus_Ohio.csv,47534,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Dallas_Texas.csv,47894,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Detroit_Michigan.csv,47685,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_El_Paso_Texas.csv,47341,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Fort_Worth_Texas.csv,49063,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Houston_Texas.csv,46268,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Indianapolis_Indiana.csv,48982,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Jacksonville_Florida.csv,49241,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Los_Angeles_California.csv,49880,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Memphis_Tennessee.csv,47925,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_New_York_New_York.csv,47926,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Philadelphia_Pennsylvania.csv,51466,122,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_Phoenix_Arizona.csv,46855,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_San_Antonio_Texas.csv,48839,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_San_Diego_California.csv,50208,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_San_Francisco_California.csv,50505,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
+Real Estates,Real estate agents,extracted/Real Estates/Real estate agents/Real_estate_agents_in_San_Jose_California.csv,47716,120,8,Name|URL|Query|Rating|Reviews|Phone|Address|Website
