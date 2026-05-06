@@ -1,0 +1,13 @@
+No-Website Leads Summary
+========================
+Total rows scanned: 29979
+Leads with no website: 3431
+
+By category:
+- Automobile: 751
+- Clothing Stores: 330
+- Educational Services: 387
+- Financial planners: 140
+- Furniture Stores: 302
+- Hospitality: 1068
+- Real Estates: 453
